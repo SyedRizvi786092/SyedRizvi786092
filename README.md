@@ -3,7 +3,7 @@
 
 I'm a Computer Science Engineering student at Shri Ramswaroop Memorial University, set to graduate in 2025. My passion lies at the intersection of Mobile Application Development and Artificial Intelligence, aiming to create innovative solutions that make a meaningful impact.
 
-![<SyedRizvi786092>'s Stats](https://github-readme-stats.vercel.app/api?username=SyedRizvi786092&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=SyedRizvi786092&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="SyedRizvi786092's GitHub Stats">
 
 ### 🚀 About Me
 - 🎓 Pursuing Computer Science Engineering (Graduating 2025)
