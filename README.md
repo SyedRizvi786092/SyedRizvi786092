@@ -1,7 +1,7 @@
-# Hi, I'm Mohd. Mojiz Hasan 👋
+# Hi, I'm Mohd Mojiz Hasan 👋
 ## Ex-intern @Edunet Foundation | Aspiring Android Developer
 
-I'm a Computer Science Engineering student at Shri Ramswaroop Memorial University, set to graduate in 2025. My passion lies at the intersection of Mobile Application Development and Artificial Intelligence, aiming to create innovative solutions that make a meaningful impact.
+I am a Computer Science Engineering student at Shri Ramswaroop Memorial University, set to graduate in 2025. My passion lies at the intersection of Mobile Application Development and Artificial Intelligence, aiming to create innovative solutions that make a meaningful impact.
 
 <img src="https://github-readme-stats.vercel.app/api?username=SyedRizvi786092&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="SyedRizvi786092's GitHub Stats">
 
@@ -40,10 +40,8 @@ I'm a Computer Science Engineering student at Shri Ramswaroop Memorial Universit
 - Contribute to innovative projects that blend mobile development with emerging technologies
 
 ### 🤝 Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-mojiz-hasan-a28b382b9).
-- Or [Email](mailto:mojiz.hasan.786@gmail.com) me.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-mojiz-hasan-a28b382b9),
+- Or [Mail](mailto:mojiz.hasan.786@gmail.com) me.
 
 ---
 Thanks for stopping by! Let's connect and explore how we can drive the future of tech together!
-
-⭐️ From [SyedRizvi786092](https://github.com/SyedRizvi786092)
