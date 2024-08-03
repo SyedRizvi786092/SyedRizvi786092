@@ -38,6 +38,9 @@ I am a Computer Science Engineering student at Shri Ramswaroop Memorial Universi
 <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FEhPeKYcjS9mGWVlczvhoUA%3Fidentity__email%3Dmojiz.hasan.786%2540gmail.com&amp;identity__email=mojiz.hasan.786%40gmail.com">
   <img src="badges/postman-api-fundamentals.png" width="120" height="120" alt="Postman API Fundamentals Student Expert">
 </a>
+<a href="https://www.credly.com/badges/a0e116d2-c008-441c-80d0-8e34de7aa9cb/public_url">
+  <img src="badges/python-for-data-science.png" width="120" height="120" alt="Postman API Fundamentals Student Expert">
+</a>
 
 ### 🌟 Goals
 - Dive deeper into Android Development
