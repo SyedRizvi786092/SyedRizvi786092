@@ -50,6 +50,18 @@ I am a Computer Science Engineering student at Shri Ramswaroop Memorial Universi
 <a href="https://www.credly.com/badges/1db19f1a-c2b2-45c9-a965-1dc13d6a2335/public_url">
   <img src="badges/journey-to-cloud-envisioning-your-solution.2.png" width="120" height="120" alt="Journey to Cloud: Envisioning Your Solution">
 </a>
+<br><br>
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
+</div>
+</details>
 
 ### 🌟 Goals
 - Dive deeper into Android Development
